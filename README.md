@@ -2,7 +2,7 @@
 
 By Chiaki Sakura and EMFFIBNS
 
-The last mistake from EMFFIBNS. Currently in development
+A game from EMFFIBNS. Currently in development
 
 ## System Requirements
 
